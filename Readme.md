@@ -7,7 +7,7 @@
 
 ## Problem Statement
 
-In terms of functionality, Tuiter is currently limited. We need a set of features to boost engagement and make the app
+In terms of functionality, We need a set of features to boost engagement and make the app
 interesting to use in order to gain and retain users.We plan to implement a secure private chat .Tuiter's private chat
 feature is a wonderful way to collaborate and debate with other Tuiter users. There is currently no method to keep track
 of conversations as they occur. A private chat will be included in our implementation. On Tuiter, a user can send a direct
